@@ -1,4 +1,4 @@
-# marketing-leads-deep-learning
+# marketing-leads-forecast
 
 Forecasting marketing leads using ensembles of deep- and machine learning techniques. Still work in progress!
 
