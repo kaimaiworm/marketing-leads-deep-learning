@@ -1,6 +1,6 @@
 # marketing-leads-forecast
 
-Forecasting marketing leads using ensembles of deep- and machine learning techniques. Still work in progress!
+Forecasting marketing leads using ensembles of deep- and machine learning techniques.
 
 Among the base methods used are KNN, SVM, RF, GBDT, GBLM, TFT etc.
 Models were stacked using a forward-stepwise selection process.
